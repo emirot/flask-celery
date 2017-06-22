@@ -1,0 +1,10 @@
+Flask
+Jinja2
+amqp==1.4.6
+anyjson==0.3.3
+argparse==1.2.1
+celery
+itsdangerous
+kombu
+pytz
+redis
